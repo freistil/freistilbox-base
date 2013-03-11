@@ -1,4 +1,4 @@
-# These are paths that we use on every freistilbox repositroy and must not be pushed by you.
+# These are paths that we use on every freistilbox repository and must not be pushed by you.
 /config
 /private
 /tmp
